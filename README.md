@@ -16,6 +16,7 @@ They were created using kiCAD
 <img width="1137" height="838" alt="image" src="https://github.com/user-attachments/assets/9c1f3baa-85fb-4d77-bd05-5ce29421f333" />
 
 # Bill of Materials:
+(a full BOM.csv file can also be found under the production folder)
 Here's everything you would need to build this: 
 - 12x DSA Keycaps
 - 12x Cherry_MX Switches
